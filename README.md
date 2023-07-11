@@ -5,7 +5,7 @@
 
 
 # Crowdfunding
-##Delpyed on  https://vocal-kitten-3613ef.netlify.app/
+##Deployed on  https://vocal-kitten-3613ef.netlify.app/
 
 
 ## Getting Started
